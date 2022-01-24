@@ -20,7 +20,6 @@ Write a C program to find sum of main diagonal elements and sum of minor diagona
 
 ---
 ## How to use code
-The code can be used by using the following steps
 
 #Download project
 git clone https://github.com/sunny7712/ITP-2022
