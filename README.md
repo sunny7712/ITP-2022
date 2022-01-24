@@ -173,15 +173,6 @@ for (initialization; condition; increment) {
 
 }
 
-### Analysis
-
-*Time Complexity*
-
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
-
-*Space Complexity*
-
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
 
 ---
 
