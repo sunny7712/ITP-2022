@@ -25,7 +25,7 @@ Write a C program to find sum of main diagonal elements and sum of minor diagona
 git clone https://github.com/sunny7712/ITP-2022
 
 Project Initialize 
-
+```
 cd ITP-2022
 
 #create Assignment-1 folder
@@ -37,9 +37,9 @@ cd assignment_01
 #Create file
 touch readme.md
 touch source-code.c
-
+```
 ---
-
+```
 Run the code
 
 gcc source-code.c
@@ -48,7 +48,7 @@ a.exe
 Output
 
 The sum of major and minor diagonal of the matrix.
-
+```
 ---
 
 ### *Test case*
