@@ -124,11 +124,11 @@ simplest form of a multidimensional array. We can see a
 two – dimensional array as an array of one – dimensional
 array for easier understanding. The basic form of declaring
 a two-dimensional array of size x, y is by the syntax:
-
+```
 data_type array_name[x][y];
 
 data_type: Type of data to be stored. Valid C data type.
-
+```
 Elements in two-dimensional arrays are commonly
 referred to by x[i][j] where i is the row number and ‘j’ is
 the column number. A two – dimensional array can be
@@ -144,7 +144,7 @@ us to write a loop that is executed a specific number of
 times. The loop enables us to perform n number of steps
 together in one line. The basic form of declaring a for loop
 is by the syntax:
-
+```
 for (initialization; condition; increment;)
 
 {
@@ -154,12 +154,12 @@ for (initialization; condition; increment;)
 // statements we want to execute
 
 }
-
+```
 Nested loop means a loop statement inside another loop
 statement. That is why nested loops are also called as loop
 inside loop. The basic form of declaring a nested for loop
 is by the syntax:
-
+```
 for (initialization; condition; increment) {
 
 for (initialization; condition; increment) {
@@ -172,7 +172,7 @@ for (initialization; condition; increment) {
 
 }
 
-
+```
 ---
 
 ### References
