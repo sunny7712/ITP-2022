@@ -54,7 +54,7 @@ The sum of major and minor diagonal of the matrix.
 ### *Test case*
 
 Find max
-
+```
 Test Case-1
 
 Input:
@@ -82,9 +82,9 @@ Enter the elements of the Matrix:
 The sum of the major diagonal elements is 14
 
 The sum of the minor diagonal elements is 17
-
+```
 #--------------------------#
-
+```
 Test Case-2
 
 Input:
@@ -108,7 +108,7 @@ Enter the elements of the Matrix:
 The sum of the major diagonal elements is 10
 
 The sum of the minor diagonal elements is 10
-
+```
 
 ---
 
