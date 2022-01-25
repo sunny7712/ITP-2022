@@ -6,7 +6,7 @@
 |    IEC2021050  |   Aman Raj | Geek-Aman |
 |    IEC2021051  |   Nimish Rajurkar | NimishR03 | 
 |    IEC2021052  |   Vamsi K | sunny7712  |
-|    IEC2021053  |   Sai Praneeth |        |
+|    IEC2021053  |   Sai Praneeth | praneeth855 |
 
 *Group No-*"13"
 
