@@ -1,7 +1,7 @@
 # Assignment-2
 
 *Team Members*
-|   Enrollment No.  |   Name   | GithubId |
+|   Enrollment No.  |   Name   | Github Id |
 |   --------------  |   ----   | -------- |
 |    IEC2021050  |   Aman Raj | Geek-Aman |
 |    IEC2021051  |   Nimish Rajurkar | NimishR03 | 
@@ -161,5 +161,4 @@ manner).
 ### References
 
 1. https://www.geeksforgeeks.org/structures-c/
-2. https://www.geeksforgeeks.org/comparator-function-of-
-qsort-in-c/
+2. https://www.geeksforgeeks.org/comparator-function-of-qsort-in-c/
